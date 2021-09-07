@@ -1,2 +1,2 @@
 # sorting_js
-Sorting By First Name and Last Name
+Sorting a list of full names by names and surnames.
